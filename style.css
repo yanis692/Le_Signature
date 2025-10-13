@@ -85,7 +85,7 @@ nav a {
     width: 100%;
     min-height: 60vh;
     height: 80vh;
-    background: url('images/Image1.png') center center / cover no-repeat;
+    background: url('Images/Image1.png') center center / cover no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -324,3 +324,4 @@ footer {
         padding: 6px;
     }
 }
+
